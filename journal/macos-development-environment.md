@@ -1,7 +1,7 @@
 ---
 date: 2019-05-17
 title: Teaching
-author: Nichlas W. Andersen
+author: Shushma Gupta
 excerpt: My thoughts on teaching.
 
 ---
