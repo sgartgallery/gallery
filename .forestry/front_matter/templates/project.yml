@@ -37,4 +37,5 @@ fields:
   label: Foreground color
 pages:
 - projects/acrylic.md
+- projects/gouache.md
 - projects/water.md
