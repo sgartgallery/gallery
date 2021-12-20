@@ -37,6 +37,5 @@ fields:
   label: Foreground color
 pages:
 - projects/3d-graff.md
-- projects/chair.art.md
 - projects/ios-concept.md
 - projects/sunk.md
