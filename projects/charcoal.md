@@ -2,7 +2,12 @@
 date: 2021-12-20
 thumbnail: "/uploads/img-20190828-wa0007.jpeg"
 title: Charcoal
-categories: []
+categories:
+- charcoal
+- birds
+- portrait
+- floral
+- nature
 project_bg_color: ''
 project_fg_color: ''
 
