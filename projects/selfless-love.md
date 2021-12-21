@@ -5,7 +5,6 @@ title: Selfless love
 categories:
 - portrait
 - pencil
-- paper
 project_bg_color: ''
 project_fg_color: ''
 
