@@ -1,7 +1,7 @@
 ---
 date: 2021-12-21
 thumbnail: "/uploads/img-20200518-wa0003.jpeg"
-title: 21st Century
+title: Capitalism
 categories:
 - watercolor
 - paper
@@ -11,7 +11,7 @@ project_fg_color: ''
 ---
 ![](/uploads/img-20200518-wa0003.jpeg)
 
-**21st Century**
+**Capitalism**
 
 _Watercolor on paper_
 
