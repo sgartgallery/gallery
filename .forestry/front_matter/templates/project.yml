@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/abundance.md
 - projects/abundant-waterfall.md
 - projects/acrylic.md
 - projects/charcoal.md
