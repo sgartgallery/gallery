@@ -4,7 +4,6 @@ thumbnail: "/uploads/img-20200610-wa0001.jpeg"
 title: Opulence
 categories:
 - watercolor
-- paper
 project_bg_color: ''
 project_fg_color: ''
 
