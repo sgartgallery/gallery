@@ -5,6 +5,7 @@ title: Cycle of Life
 categories:
 - watercolor
 - portrait
+- animal
 project_bg_color: ''
 project_fg_color: ''
 
