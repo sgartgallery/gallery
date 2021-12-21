@@ -5,7 +5,6 @@ title: Zen Garden
 categories:
 - gouache
 - pencil
-- paper
 - nature
 project_bg_color: ''
 project_fg_color: ''
