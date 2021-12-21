@@ -4,7 +4,7 @@ thumbnail: "/uploads/img-20200518-wa0003.jpeg"
 title: Capitalism
 categories:
 - watercolor
-- paper
+- cityscape
 project_bg_color: ''
 project_fg_color: ''
 
