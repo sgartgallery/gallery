@@ -2,7 +2,10 @@
 date: 2021-12-21
 thumbnail: "/uploads/img-20200424-wa0000.jpeg"
 title: Selfless love
-categories: []
+categories:
+- portrait
+- pencil
+- paper
 project_bg_color: ''
 project_fg_color: ''
 
