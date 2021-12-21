@@ -1,6 +1,6 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/whatsapp-image-2021-12-20-at-6-56-24-pm.jpeg"
+thumbnail: "/uploads/96cdd42e-6897-496b-ad14-d071c5a4e91f.jpeg"
 title: Freedom
 categories:
 - gouache
@@ -10,7 +10,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/whatsapp-image-2021-12-20-at-6-56-24-pm.jpeg)
+![](/uploads/96cdd42e-6897-496b-ad14-d071c5a4e91f.jpeg)
 
 **Freedom**
 
