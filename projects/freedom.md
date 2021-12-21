@@ -5,7 +5,7 @@ title: Freedom
 categories:
 - gouache
 - nature
-- paper
+- goldleaf
 project_bg_color: ''
 project_fg_color: ''
 
