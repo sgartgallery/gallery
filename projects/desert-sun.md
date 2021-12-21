@@ -5,6 +5,7 @@ title: Desert Sun
 categories:
 - acrylic
 - nature
+- texture
 project_bg_color: ''
 project_fg_color: ''
 
