@@ -1,7 +1,7 @@
 ---
 date: 2021-12-21
 thumbnail: "/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg"
-title: Desert Sun
+title: A Desert Sun
 categories:
 - acrylic
 - nature
@@ -12,7 +12,7 @@ project_fg_color: ''
 ---
 ![](/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg)
 
-**Desert sun**
+**A Desert sun**
 
 _Acrylic on canvas_
 
