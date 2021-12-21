@@ -1,7 +1,7 @@
 ---
 date: 2021-12-21
 thumbnail: "/uploads/img-20200405-wa0017.jpeg"
-title: Abundant Waterfall
+title: Sound of Water
 categories:
 - acrylic
 - nature
@@ -11,7 +11,7 @@ project_fg_color: ''
 ---
 ![](/uploads/img-20200405-wa0017.jpeg)
 
-**Abundant waterfall**
+**Sound of Water**
 
 _Acrylic on canvas_
 
