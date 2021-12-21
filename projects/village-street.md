@@ -4,7 +4,6 @@ thumbnail: "/uploads/6212665f-58a9-4dbd-90bd-69ec757f44dd.jpeg"
 title: Village Street
 categories:
 - watercolor
-- paper
 project_bg_color: ''
 project_fg_color: ''
 
