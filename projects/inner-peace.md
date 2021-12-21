@@ -4,7 +4,6 @@ thumbnail: "/uploads/3708636c-d6eb-4873-a2ea-0f7e47c7eee1.jpeg"
 title: Inner Peace
 categories:
 - watercolor
-- paper
 project_bg_color: ''
 project_fg_color: ''
 
