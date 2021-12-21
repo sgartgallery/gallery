@@ -1,6 +1,6 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/img-20190307-wa0011.jpeg"
+thumbnail: "/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg"
 title: Desert Sun
 categories:
 - acrylic
@@ -9,7 +9,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/img-20190307-wa0011.jpeg)
+![](/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg)
 
 **Desert sun**
 
