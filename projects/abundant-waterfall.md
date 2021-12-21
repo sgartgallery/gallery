@@ -1,0 +1,17 @@
+---
+date: 2021-12-21
+thumbnail: "/uploads/img-20200405-wa0017.jpeg"
+title: Abundant Waterfall
+categories:
+- acrylic
+project_bg_color: ''
+project_fg_color: ''
+
+---
+![](/uploads/img-20200405-wa0017.jpeg)
+
+_Acrylic on canvas_
+
+Main fall: 100 x 70 cm
+
+Small falls: 15 x 15 cm
