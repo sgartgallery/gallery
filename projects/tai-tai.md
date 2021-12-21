@@ -4,7 +4,7 @@ thumbnail: "/uploads/3cd3007d-33c5-4a0d-8b0b-270ac850354d.jpeg"
 title: Tai-Tai
 categories:
 - watercolor
-- paper
+- floral
 project_bg_color: ''
 project_fg_color: ''
 
