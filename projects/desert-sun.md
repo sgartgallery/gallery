@@ -4,6 +4,7 @@ thumbnail: "/uploads/img-20190307-wa0011.jpeg"
 title: Desert Sun
 categories:
 - acrylic
+- nature
 project_bg_color: ''
 project_fg_color: ''
 
