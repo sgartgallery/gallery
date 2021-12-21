@@ -1,6 +1,6 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/whatsapp-image-2021-12-20-at-12-33-45-pm-1.jpeg"
+thumbnail: "/uploads/love.jpeg"
 title: Love
 categories:
 - acrylic
@@ -9,7 +9,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/whatsapp-image-2021-12-20-at-12-33-45-pm-1.jpeg)
+![](/uploads/love.jpeg)
 
 **Love**
 
