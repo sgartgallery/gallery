@@ -5,7 +5,7 @@ title: New Beginnings
 categories:
 - charcoal
 - acrylic
-- paper
+- spiritual
 project_bg_color: ''
 project_fg_color: ''
 
