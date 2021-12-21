@@ -4,7 +4,7 @@ thumbnail: "/uploads/img-20191217-wa0003.jpeg"
 title: Sparrow
 categories:
 - charcoal
-- paper
+- bird
 project_bg_color: ''
 project_fg_color: ''
 
