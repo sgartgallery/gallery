@@ -1,7 +1,7 @@
 ---
 date: 2021-12-21
 thumbnail: "/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg"
-title: A Desert Sun
+title: The Desert Sun
 categories:
 - acrylic
 - nature
@@ -12,8 +12,8 @@ project_fg_color: ''
 ---
 ![](/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg)
 
-**A Desert sun**
+**The Desert sun**
 
 _Acrylic on canvas_
 
-180 x 130 cm
+152 x 91 cm
