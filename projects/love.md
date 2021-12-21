@@ -2,7 +2,9 @@
 date: 2021-12-21
 thumbnail: "/uploads/whatsapp-image-2021-12-20-at-12-33-45-pm-1.jpeg"
 title: Love
-categories: []
+categories:
+- acrylic
+- floral
 project_bg_color: ''
 project_fg_color: ''
 
