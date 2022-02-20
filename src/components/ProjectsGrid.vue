@@ -8,10 +8,17 @@
                 class="thumbnail"
             />
             <h3 class="project-title">{{ item.node.title }}</h3>
+            <!-- 
             <div class="categories">
                 <span class="category" v-for="(item, index) in item.node.categories" :key="index">{{ item }}</span>
             </div>
+            -->
             </g-link>
+            <div>
+              <g-link :to="item.node.buy_link" class="buy-link">
+                <button class="button">Buy this!</button>
+              </g-link>
+            </div>
         </div>
     </div>
 </template>
@@ -60,6 +67,16 @@ export default {
 }
 .category:last-of-type {
   margin: 0;
+}
+.button {
+  background: #36a9ae linear-gradient(to bottom, #37adb2, #329ca0) !important;
+  border: 1px solid #2a8387 !important;
+  color: #ffffff;
+  width: 120px;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
 }
 .project:hover .thumbnail {
   transform: scale(1.02);

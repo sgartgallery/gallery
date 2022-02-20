@@ -7,7 +7,7 @@ categories:
 - nature
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/namma-thottam
 ---
 ![](/uploads/img-20200405-wa0017.jpeg)
 

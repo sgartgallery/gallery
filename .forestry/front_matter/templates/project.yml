@@ -11,6 +11,9 @@ fields:
   label: Title
   config:
     required: true
+- type: text
+  name: buy_link
+  label: Buy link
 - type: datetime
   name: date
   label: Date

@@ -7,7 +7,7 @@ categories:
 - people
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/namma-thottam
 ---
 ![](/uploads/fb8a7106-519a-452f-b6cf-7bd668d5f00c.jpeg)
 

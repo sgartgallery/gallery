@@ -6,7 +6,7 @@ categories:
 - pen
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/namma-thottam
 ---
 ![](/uploads/img-20200719-wa0002.jpeg)
 

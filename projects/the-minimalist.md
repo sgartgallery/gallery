@@ -6,7 +6,7 @@ categories:
 - pen
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/minimalist
 ---
 ![](/uploads/img-20200726-wa0001.jpeg)
 

@@ -8,7 +8,7 @@ categories:
 - texture
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/namma-thottam
 ---
 ![](/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg)
 

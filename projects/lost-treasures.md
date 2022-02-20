@@ -6,7 +6,7 @@ categories:
 - charcoal
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/namma-thottam
 ---
 ![](/uploads/img-20200808-wa0001.jpeg)
 

@@ -1,19 +1,16 @@
 <template>
   <Layout>
     <div class="project">
-
       <div class="container">
-
         <div class="project-header">
           <h1 class="project-title" v-html="$page.post.title" />
           <div class="project-info">
-
             <div class="categories-container">
               <div class="categories">
                 <span class="label">Categories</span>
-                <span 
+                <span
                   class="category"
-                  v-for="(category, index) in $page.post.categories" 
+                  v-for="(category, index) in $page.post.categories"
                   :key="index"
                   v-text="category"
                 />
@@ -22,15 +19,18 @@
 
             <div class="year-container">
               <span class="label">Year</span>
-              <div v-html="$page.post.date"/>
+              <div v-html="$page.post.date" />
             </div>
           </div>
         </div>
 
         <div v-html="$page.post.content" class="content" />
-
+        <div>
+          <g-link :to="$page.post.buy_link" class="buy-link">
+            <button class="button">Buy this!</button>
+          </g-link>
+        </div>
       </div>
-
     </div>
   </Layout>
 </template>
@@ -42,6 +42,7 @@ query ProjectPost ($path: String!) {
     date (format: "YYYY")
     content
     categories
+    buy_link
     project_bg_color
     project_fg_color
   }
@@ -50,15 +51,23 @@ query ProjectPost ($path: String!) {
 
 <script>
 export default {
-  metaInfo () {
+  metaInfo() {
     return {
       title: this.$page.post.title,
       bodyAttrs: {
-        style: `background-color: ${this.$page.post.project_bg_color ? this.$page.post.project_bg_color : 'var(--color-base)'}; color: ${this.$page.post.project_fg_color ? this.$page.post.project_fg_color : 'var(--color-contrast)'}`
-      }
-    }
-  }
-}
+        style: `background-color: ${
+          this.$page.post.project_bg_color
+            ? this.$page.post.project_bg_color
+            : 'var(--color-base)'
+        }; color: ${
+          this.$page.post.project_fg_color
+            ? this.$page.post.project_fg_color
+            : 'var(--color-contrast)'
+        }`,
+      },
+    };
+  },
+};
 </script>
 
 <style scoped>
@@ -82,9 +91,19 @@ export default {
   margin: 0;
 }
 .category:after {
-  content: ', '
+  content: ', ';
 }
 .category:last-of-type:after {
   content: '';
+}
+.button {
+  background: #36a9ae linear-gradient(to bottom, #37adb2, #329ca0) !important;
+  border: 1px solid #2a8387 !important;
+  color: #ffffff;
+  width: 200px;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
 }
 </style>

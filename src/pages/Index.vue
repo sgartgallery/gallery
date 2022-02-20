@@ -17,6 +17,7 @@ query Posts {
         date (format: "YYYY")
         title
         categories
+        buy_link
         thumbnail (quality: 90)
         path
       }
@@ -35,15 +36,15 @@ query Posts {
 </page-query>
 
 <script>
-import Hero from "@/components/Hero"
-import ProjectsGrid from "@/components/ProjectsGrid"
-import LatestJournals from "@/components/LatestJournals"
+import Hero from '@/components/Hero';
+import ProjectsGrid from '@/components/ProjectsGrid';
+import LatestJournals from '@/components/LatestJournals';
 
 export default {
   components: {
     Hero,
     ProjectsGrid,
-    LatestJournals
-  }
-}
+    LatestJournals,
+  },
+};
 </script>

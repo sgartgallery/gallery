@@ -7,7 +7,7 @@ categories:
 - floral
 project_bg_color: ''
 project_fg_color: ''
-
+buy_link: https://shushma.gumroad.com/l/tai-tai
 ---
 ![](/uploads/3cd3007d-33c5-4a0d-8b0b-270ac850354d.jpeg)
 
