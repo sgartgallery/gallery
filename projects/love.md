@@ -1,14 +1,15 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/love.jpeg"
+thumbnail: '/uploads/love.jpeg'
 title: Love
 categories:
-- acrylic
-- floral
+  - acrylic
+  - floral
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/l/namma-thottam
+buy_link: https://shushma.gumroad.com/
 ---
+
 ![](/uploads/love.jpeg)
 
 **Love**

@@ -1,15 +1,16 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/96cdd42e-6897-496b-ad14-d071c5a4e91f.jpeg"
+thumbnail: '/uploads/96cdd42e-6897-496b-ad14-d071c5a4e91f.jpeg'
 title: Freedom
 categories:
-- gouache
-- nature
-- goldleaf
+  - gouache
+  - nature
+  - goldleaf
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/l/namma-thottam
+buy_link: https://shushma.gumroad.com/
 ---
+
 ![](/uploads/96cdd42e-6897-496b-ad14-d071c5a4e91f.jpeg)
 
 **Freedom**

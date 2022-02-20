@@ -1,14 +1,15 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/img-20200518-wa0003.jpeg"
+thumbnail: '/uploads/img-20200518-wa0003.jpeg'
 title: Capitalism
 categories:
-- watercolor
-- cityscape
+  - watercolor
+  - cityscape
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/l/namma-thottam
+buy_link: https://shushma.gumroad.com/
 ---
+
 ![](/uploads/img-20200518-wa0003.jpeg)
 
 **Capitalism**

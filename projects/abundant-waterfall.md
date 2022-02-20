@@ -1,14 +1,15 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/img-20200405-wa0017.jpeg"
+thumbnail: '/uploads/img-20200405-wa0017.jpeg'
 title: Sound of Water
 categories:
-- acrylic
-- nature
+  - acrylic
+  - nature
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/l/namma-thottam
+buy_link: https://shushma.gumroad.com/
 ---
+
 ![](/uploads/img-20200405-wa0017.jpeg)
 
 **Sound of Water**
