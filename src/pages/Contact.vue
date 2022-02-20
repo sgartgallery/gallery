@@ -1,22 +1,44 @@
 <template>
   <Layout>
     <div class="container">
-
       <div class="contact-header">
         <h1 class="contact-title">About</h1>
-        <p>Shushma Gupta makes paintings, drawings and mixed media artworks. By applying abstraction, Shushma tries to develop forms that do not follow logical criteria, but are based only on subjective associations and formal parallels, which incite the viewer to make new personal associations. </p>
-        <p>Her paintings are based on formal associations which open a unique poetic vein. Multilayered images arise in which the fragility and instability of our seemingly certain reality is questioned. 
-        She creates intense personal moments masterfully created by means of rules and omissions, acceptance and refusal, inspired by a nineteenth-century tradition of works, in which an ideal of ‘Fulfilled Absence’ was seen as the pinnacle.</p>
-        <p>Her works don’t reference recognisable form. The results are deconstructed to the extent that meaning is shifted and possible interpretation becomes multifaceted. However, this reference is not intentional, as this kind of art is part of the collective memory.
-        Shushma currently lives and works in Mumbai.</p>
-        <p>If you have an upcoming or interesting project you'd like to discuss, get in touch at <a href = "mailto: guptashushma@gmail.com">guptashushma@gmail.com</a>.</p>
+        <img src="/uploads/img-20190727-wa0000-2.jpeg" />
+        <p>
+          Shushma Gupta makes paintings, drawings and mixed media artworks. By
+          applying abstraction, Shushma tries to develop forms that do not
+          follow logical criteria, but are based only on subjective associations
+          and formal parallels, which incite the viewer to make new personal
+          associations.
+        </p>
+        <p>
+          Her paintings are based on formal associations which open a unique
+          poetic vein. Multilayered images arise in which the fragility and
+          instability of our seemingly certain reality is questioned. She
+          creates intense personal moments masterfully created by means of rules
+          and omissions, acceptance and refusal, inspired by a
+          nineteenth-century tradition of works, in which an ideal of ‘Fulfilled
+          Absence’ was seen as the pinnacle.
+        </p>
+        <p>
+          Her works don’t reference recognisable form. The results are
+          deconstructed to the extent that meaning is shifted and possible
+          interpretation becomes multifaceted. However, this reference is not
+          intentional, as this kind of art is part of the collective memory.
+          Shushma currently lives and works in Mumbai.
+        </p>
+        <p>
+          If you have an upcoming or interesting project you'd like to discuss,
+          get in touch at
+          <a href="mailto: guptashushma@gmail.com">guptashushma@gmail.com</a>.
+        </p>
       </div>
     </div>
   </Layout>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style scoped>
@@ -40,10 +62,12 @@ export default {}
 .sender-info > div:last-of-type {
   margin: 0;
 }
-input:focus,textarea:focus {
+input:focus,
+textarea:focus {
   border-color: var(--color-contrast-1);
 }
-input,textarea {
+input,
+textarea {
   background: transparent;
   border: 1px solid var(--color-base-1);
   outline: none;
@@ -78,4 +102,3 @@ textarea {
   border: 1px solid var(--color-base-1);
 }
 </style>
-
