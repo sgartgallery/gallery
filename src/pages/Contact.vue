@@ -3,32 +3,14 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">About</h1>
+        <p>Shushma Gupta makes paintings, drawings and mixed media artworks. By applying abstraction, Shushma tries to develop forms that do not follow logical criteria, but are based only on subjective associations and formal parallels, which incite the viewer to make new personal associations. </p>
+        <p>Her paintings are based on formal associations which open a unique poetic vein. Multilayered images arise in which the fragility and instability of our seemingly certain reality is questioned. 
+        She creates intense personal moments masterfully created by means of rules and omissions, acceptance and refusal, inspired by a nineteenth-century tradition of works, in which an ideal of ‘Fulfilled Absence’ was seen as the pinnacle.</p>
+        <p>Her works don’t reference recognisable form. The results are deconstructed to the extent that meaning is shifted and possible interpretation becomes multifaceted. However, this reference is not intentional, as this kind of art is part of the collective memory.
+        Shushma currently lives and works in Mumbai.</p>
+        <p>If you have an upcoming or interesting project you'd like to discuss, get in touch at <a href = "mailto: guptashushma@gmail.com">guptashushma@gmail.com</a>.</p>
       </div>
-
-      <form class="contact-form" name="contact">
-
-        <div class="sender-info">
-          <div>
-            <label for="name" class="label">Your name</label>
-            <input type="text" name="name" />
-          </div>
-          <div>
-            <label for="email" class="label">Your email</label>
-            <input type="email" name="email" />
-          </div>
-        </div>
-
-        <div class="message">
-          <label for="message" class="label">Message</label>
-          <textarea name="message"></textarea>
-        </div>
-
-        <button class="button">Submit form</button>
-
-      </form>
-
     </div>
   </Layout>
 </template>
