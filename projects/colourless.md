@@ -7,7 +7,8 @@ categories:
   - pen
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/
+buy_link: 'https://shushma.gumroad.com/l/colorless'
+order: '3'
 ---
 
 ![](/uploads/img-20200723-wa0000.jpeg)

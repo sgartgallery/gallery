@@ -8,7 +8,8 @@ categories:
   - animal
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/
+buy_link: 'https://shushma.gumroad.com/l/cycle-of-life'
+order: '3'
 ---
 
 ![](/uploads/11888403-2167-4ea8-a372-ee55d2056e55.jpeg)

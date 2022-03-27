@@ -9,7 +9,8 @@ categories:
   - pencil
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/
+buy_link: 'https://shushma.gumroad.com/l/fire-lily'
+order: '3'
 ---
 
 ![](/uploads/img-20200715-wa0002-2.jpeg)

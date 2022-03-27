@@ -7,7 +7,8 @@ categories:
   - animal
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/
+buy_link: 'https://shushma.gumroad.com/l/fear-1'
+order: '4'
 ---
 
 ![](/uploads/838798d9-8fa0-4134-8546-2c7d931aa15e.jpeg)

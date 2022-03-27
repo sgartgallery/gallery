@@ -6,7 +6,8 @@ categories:
   - charcoal
 project_bg_color: ''
 project_fg_color: ''
-buy_link: https://shushma.gumroad.com/
+buy_link: 'https://shushma.gumroad.com/l/lost-treasures'
+order: '5'
 ---
 
 ![](/uploads/img-20200808-wa0001.jpeg)

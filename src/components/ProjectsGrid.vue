@@ -1,6 +1,6 @@
 <template>
     <div class="projects">
-        <div class="project" v-for="item in projects" :key="item.node.id">
+        <div class="project" v-for="item in sort(projects)" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
             <g-image
                 :src="item.node.thumbnail"
@@ -30,7 +30,15 @@ export default {
             type: Array,
             required: true
         }
+    },
+    methods: {
+      sort: function(arr) {
+      // Set slice() to avoid to generate an infinite loop!
+      return arr.slice().sort(function(a, b) {
+        return a.node.order - b.node.order;
+      });
     }
+  }
 }
 </script>
 

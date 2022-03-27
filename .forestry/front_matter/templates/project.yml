@@ -14,6 +14,9 @@ fields:
 - type: text
   name: buy_link
   label: Buy link
+- type: text
+  name: order
+  label: order
 - type: datetime
   name: date
   label: Date

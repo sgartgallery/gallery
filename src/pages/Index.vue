@@ -9,8 +9,8 @@
 </template>
 
 <page-query>
-query Posts {
-	projects: allProjectPost {
+query Posts { 
+	projects : allProjectPost {
     edges {
       node {
         id
@@ -19,6 +19,7 @@ query Posts {
         categories
         buy_link
         thumbnail (quality: 90)
+        order
         path
       }
     }
