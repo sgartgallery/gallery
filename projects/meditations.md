@@ -17,4 +17,4 @@ project_fg_color: ''
 
 _Acrylic on canvas_
 
-120 cm x 60 cm
+62 cm x 122 cm
