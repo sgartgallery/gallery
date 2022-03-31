@@ -17,4 +17,4 @@ order: '2'
 
 Gouache and pencil on paper
 
-40 x 29.7 cm
+51 x 41 cm

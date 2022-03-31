@@ -17,4 +17,4 @@ order: '2'
 
 _Pencil on paper_
 
-40 x 40 cm
+14.8 x 21 cm

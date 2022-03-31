@@ -19,4 +19,4 @@ order: '3'
 
 _Gouache and pencil on sand paper_
 
-40 x 36 cm
+21 x 29.7 cm

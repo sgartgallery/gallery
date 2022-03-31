@@ -16,4 +16,4 @@ project_fg_color: ''
 
 **Swirl**
 
-42 x 51 cm
+51 x 41 cm

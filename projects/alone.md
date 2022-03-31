@@ -17,4 +17,4 @@ order: '3'
 
 _Watercolor on paper_
 
-46 x 30 cm
+21 x 14.8 cm

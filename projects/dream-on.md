@@ -17,4 +17,4 @@ order: '3'
 
 Watercolor on paper
 
-40 x 29.7 cm
+14.8 x 21 cm

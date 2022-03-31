@@ -17,4 +17,4 @@ order: '3'
 
 _Charcoal on paper_
 
-40 x 30 cm
+21 x 14.8 cm

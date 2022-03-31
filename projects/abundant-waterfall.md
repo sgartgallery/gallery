@@ -17,11 +17,11 @@ order: '1'
 
 _Acrylic on canvas_
 
-Main fall: 92 x 46 cm
+Main fall: 90 x 45 cm
 
 ![](/uploads/img-20190727-wa0002.jpeg)
 
-Small falls: 34 x 34 cm
+Small falls: 30 x 30 cm
 
 ![](/uploads/img-20190604-wa0036.jpeg)
 

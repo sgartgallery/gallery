@@ -14,6 +14,6 @@ order: '3'
 
 **Tai-Tai**
 
-50 x 42 cm
+29.7 x 21 cm
 
 _Watercolor on paper_

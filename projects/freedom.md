@@ -18,4 +18,4 @@ order: '2'
 
 _Gouache on paper_
 
-60 x 40 cm
+52 x 40 cm
