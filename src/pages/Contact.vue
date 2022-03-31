@@ -8,7 +8,7 @@
             <img
               class="g-image g-image--lazy g-image--loaded"
               src="https://github.com/sgartgallery/gallery/raw/master/uploads/img-20190727-wa0000-2.jpeg"
-              sizes="(max-width: 1272px) 100vw, 1272px"
+              sizes="(max-width: 100%) 100vw, 1272px"
             />
           </div>
           <div class="profile-text">
@@ -20,26 +20,13 @@
               new personal associations.
             </p>
             <p>
-              Her paintings are based on formal associations which open a unique
-              poetic vein. Multilayered images arise in which the fragility and
-              instability of our seemingly certain reality is questioned. She
-              creates intense personal moments masterfully created by means of
-              rules and omissions, acceptance and refusal, inspired by a
-              nineteenth-century tradition of works, in which an ideal of
-              ‘Fulfilled Absence’ was seen as the pinnacle.
-            </p>
-            <p>
-              Her works don’t reference recognisable form. The results are
-              deconstructed to the extent that meaning is shifted and possible
-              interpretation becomes multifaceted. However, this reference is
-              not intentional, as this kind of art is part of the collective
-              memory. Shushma currently lives and works in Mumbai.
+              Her works reference nature, spirituality, and inspirations from 
+              everyday life. Shushma currently lives and works in Mumbai.
             </p>
             <p>
               If you have an upcoming or interesting project you'd like to
               discuss, get in touch at
-              <a href="mailto: guptashushma@gmail.com">guptashushma@gmail.com</a
-              >.
+              <a href="mailto: guptashushma@gmail.com">guptashushma@gmail.com</a>.
             </p>
           </div>
         </div>
@@ -64,12 +51,32 @@ export default {};
 .profile {
   display: flex;
 }
+
 .profile-img {
   flex: 1 1 50%;
+  padding: 5px;
 }
 .profile-text {
   flex: 1 1 50%;
+  padding: 5px;
 }
+
+@media (max-width: 700px) {
+  .profile {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .profile-img {
+    flex: 1 1 100%;
+    padding: 5px;
+  }
+  .profile-text {
+    flex: 1 1 100%;
+    padding: 5px;
+  }
+}
+
 .sender-info {
   display: flex;
   flex-wrap: wrap;
