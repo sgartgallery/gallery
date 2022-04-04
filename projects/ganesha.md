@@ -1,7 +1,7 @@
 ---
 date: 2022-03-28
 thumbnail: "/uploads/ganesha-square.png"
-title: Ganesha
+title: Benevolence
 buy_link: https://shushma.gumroad.com/l/ganesha
 order: "1.4"
 categories:
@@ -12,8 +12,8 @@ project_fg_color: ''
 ---
 ![](/uploads/ganesha.jpeg)
 
-**Ganesha**
+**Benevolence**
 
 _Acrylic on canvas_
 
-50.8 x 40.6 cm
+50\.8 x 40.6 cm
