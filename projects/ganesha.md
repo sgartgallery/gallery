@@ -2,7 +2,7 @@
 date: 2022-03-28
 thumbnail: "/uploads/ganesha-square.png"
 title: Benevolence
-buy_link: https://shushma.gumroad.com/l/ganesha
+buy_link: https://shushma.gumroad.com/l/benevolence
 order: "1.4"
 categories:
 - acrylic
