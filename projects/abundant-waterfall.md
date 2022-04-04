@@ -1,6 +1,6 @@
 ---
 date: 2021-12-21
-thumbnail: "/uploads/img-20190726-wa0004.jpeg"
+thumbnail: "/uploads/img-20200405-wa0017.jpeg"
 title: Sound of Water
 categories:
 - acrylic
