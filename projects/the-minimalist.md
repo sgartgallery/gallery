@@ -6,8 +6,9 @@ categories:
 - pen
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/l/the-minimalist-1'
-order: '4'
+buy_link: https://shushma.gumroad.com/l/the-minimalist-1
+order: "1.8"
+
 ---
 ![](/uploads/img-20200726-wa0001.jpeg)
 
