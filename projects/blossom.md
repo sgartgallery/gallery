@@ -7,7 +7,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 buy_link: https://shushma.gumroad.com/l/blossom
-order: "1.8"
+order: "1.9"
 
 ---
 ![](/uploads/img-20200719-wa0002.jpeg)
