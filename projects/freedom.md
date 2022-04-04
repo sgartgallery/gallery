@@ -9,7 +9,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 buy_link: https://shushma.gumroad.com/l/freedom
-order: "2"
+order: "1.1"
 
 ---
 ![](/uploads/96cdd42e-6897-496b-ad14-d071c5a4e91f.jpeg)
