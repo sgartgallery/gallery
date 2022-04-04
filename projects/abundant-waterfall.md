@@ -1,16 +1,16 @@
 ---
 date: 2021-12-21
-thumbnail: '/uploads/img-20200405-wa0017.jpeg'
+thumbnail: "/uploads/img-20190726-wa0004.jpeg"
 title: Sound of Water
 categories:
-  - acrylic
-  - nature
+- acrylic
+- nature
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/l/sound-of-water'
-order: '1'
----
+buy_link: https://shushma.gumroad.com/l/sound-of-water
+order: "1"
 
+---
 ![](/uploads/img-20200405-wa0017.jpeg)
 
 **Sound of Water**
@@ -24,4 +24,3 @@ Main fall: 90 x 45 cm
 Small falls: 30 x 30 cm
 
 ![](/uploads/img-20190604-wa0036.jpeg)
-
