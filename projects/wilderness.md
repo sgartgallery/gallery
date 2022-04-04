@@ -3,7 +3,7 @@ date: 2022-04-04
 thumbnail: "/uploads/wilderness.jpg"
 title: Wilderness
 buy_link: https://shushma.gumroad.com/l/wilderness
-order: "2"
+order: "0.5"
 categories:
 - oil
 - canvas
