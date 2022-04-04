@@ -7,7 +7,7 @@ categories:
 project_bg_color: ''
 project_fg_color: ''
 buy_link: https://shushma.gumroad.com/l/kampung
-order: "5"
+order: "1.6"
 
 ---
 ![](/uploads/6212665f-58a9-4dbd-90bd-69ec757f44dd.jpeg)
