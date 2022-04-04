@@ -7,8 +7,9 @@ categories:
 - goldleaf
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/l/abundance'
-order: '1'
+buy_link: https://shushma.gumroad.com/l/abundance
+order: "0.2"
+
 ---
 ![](/uploads/4232b4cb-d49a-48e0-ab3b-d41875aaea2a.jpeg)
 
