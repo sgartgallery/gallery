@@ -14,11 +14,6 @@
             </div>
             -->
             </g-link>
-            <div>
-              <g-link :to="item.node.buy_link" class="buy-link">
-                <button class="button">Buy this!</button>
-              </g-link>
-            </div>
         </div>
     </div>
 </template>

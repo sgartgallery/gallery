@@ -25,11 +25,6 @@
         </div>
 
         <div v-html="$page.post.content" class="content" />
-        <div>
-          <g-link :to="$page.post.buy_link" class="buy-link">
-            <button class="button">Buy this!</button>
-          </g-link>
-        </div>
       </div>
     </div>
   </Layout>
