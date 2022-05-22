@@ -1,15 +1,15 @@
 ---
 date: 2021-12-21
-thumbnail: '/uploads/img-20200719-wa0002.jpeg'
+thumbnail: "/uploads/img-20200719-wa0002.jpeg"
 title: Blossom
 categories:
-  - pen
+- pen
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/l/blossom'
-order: '4'
----
+buy_link: https://shushma.gumroad.com/l/blossom
+order: "1.9"
 
+---
 ![](/uploads/img-20200719-wa0002.jpeg)
 
 **Blossom**

@@ -1,17 +1,17 @@
 ---
 date: 2021-12-21
-thumbnail: '/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg'
+thumbnail: "/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg"
 title: Desert Sunset
 categories:
-  - acrylic
-  - nature
-  - texture
+- acrylic
+- nature
+- texture
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/l/desert-sunset'
-order: '1'
----
+buy_link: https://shushma.gumroad.com/l/desert-sunset
+order: "0.3"
 
+---
 ![](/uploads/whatsapp-image-2021-12-21-at-10-55-55-am-2.jpeg)
 
 **Desert Sunset**

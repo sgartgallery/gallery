@@ -1,15 +1,15 @@
 ---
 date: 2021-12-21
-thumbnail: '/uploads/6212665f-58a9-4dbd-90bd-69ec757f44dd.jpeg'
+thumbnail: "/uploads/6212665f-58a9-4dbd-90bd-69ec757f44dd.jpeg"
 title: Kampung
 categories:
-  - watercolor
+- watercolor
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/'
-order: '5'
----
+buy_link: https://shushma.gumroad.com/l/kampung
+order: "1.6"
 
+---
 ![](/uploads/6212665f-58a9-4dbd-90bd-69ec757f44dd.jpeg)
 
 **Kampung**

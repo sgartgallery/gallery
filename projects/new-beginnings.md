@@ -8,8 +8,9 @@ categories:
 - spiritual
 project_bg_color: ''
 project_fg_color: ''
-buy_link: 'https://shushma.gumroad.com/l/new-beginnings-1'
-order: '5'
+buy_link: https://shushma.gumroad.com/l/new-beginnings-1
+order: "1.3"
+
 ---
 ![](/uploads/img-20190828-wa0007.jpeg)
 

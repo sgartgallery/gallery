@@ -1,9 +1,9 @@
 ---
 date: 2022-03-28
-thumbnail: "/uploads/meditations-square.png"
+thumbnail: "/uploads/meditations.png"
 title: Meditations
 buy_link: https://shushma.gumroad.com/l/meditations
-order: "1"
+order: "0"
 categories:
 - acrylic
 - canvas
